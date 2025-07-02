@@ -4,7 +4,7 @@
 npm install node-hlr-client
 ```
 
-2. Modify ```config.json``` with your API & secret
+2. Modify ```config.json``` with your API & secret (get from https://www.hlr-lookups.com/)
 <br>
 
 3a. Check Home Location Register (HLR) lookup
