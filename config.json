@@ -1,0 +1,6 @@
+{
+  "apiCredentials": {
+    "apiKey": "myAPI",
+    "apiSecret": "mySECRET"
+  }
+}
